@@ -31,3 +31,7 @@ function clearEmployeeListOnLinkClick() {
     ul.innerHTML = ''
   })
 }
+
+function resetInput(){
+  document.querySelector('input').value = ''
+}
