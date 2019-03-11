@@ -18,6 +18,7 @@ function addNewElementAsLi() {
 function addNewLiOnClick() {
     let employeeName = retrieveEmployeeInformation()
     let list = document.querySelector('li')
+    let submit = document.querySelector('input[type="submit"]')
     
 }
 
