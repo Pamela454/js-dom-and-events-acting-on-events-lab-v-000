@@ -13,3 +13,8 @@ function retrieveEmployeeInformation() {
 function addNewElementAsLi() {
   
 }
+
+
+function clearEmployeeListOnLinkClick() {
+  
+}
