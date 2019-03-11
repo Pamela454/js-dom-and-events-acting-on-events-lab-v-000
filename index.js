@@ -16,7 +16,8 @@ function addNewElementAsLi() {
 }
 
 function addNewLiOnClick() {
-  
+    let employeeName = retrieveEmployeeInformation()
+
 }
 
 
